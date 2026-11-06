@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.review_progress/
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+*.log
+.DS_Store
+sample_papers/*.pdf
